@@ -1,16 +1,63 @@
-# React + Vite
+# Alif Arlendi — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, minimalist personal portfolio website built to showcase my work, technical skills, and experience as a **Web Developer & Security Analyst**.
 
-Currently, two official plugins are available:
+Designed with a monochrome aesthetic, the website emphasizes clean typography, responsiveness, accessibility, and performance to create a professional user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* Minimalist monochrome (black & white) design
+* Fully responsive layout
+* Smooth scrolling navigation
+* SEO-friendly metadata
+* Component-based architecture
+* Interactive project showcase
+* Skills & technologies section
+* Professional experience timeline
+* Certifications section
+* Contact section with social links
+* Easy to customize and maintain
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the Oxlint configuration
+### Frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* React
+* Vite
+* Tailwind CSS
+* JavaScript
+* Lucide React
+
+### Tools
+
+* Git
+* GitHub
+* npm
+
+## 📑 Website Sections
+
+* Home
+* About
+* Skills
+* Projects
+* Experience
+* Certifications
+* Contact
+
+## 🎨 Design Philosophy
+
+The portfolio follows a minimalist design philosophy using a strict black-and-white color palette with subtle gray accents. Every section is designed to prioritize readability, simplicity, and usability while maintaining a modern and professional appearance.
+
+## 🌐 Live Website
+
+**Portfolio:** https://your-domain.com
+
+## 📬 Connect With Me
+
+* **Email:** [your@email.com](mailto:your@email.com)
+* **GitHub:** https://github.com/yourusername
+* **LinkedIn:** https://linkedin.com/in/yourusername
+
+## 📄 License
+
+This project is licensed under the MIT License.
