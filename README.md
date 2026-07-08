@@ -54,9 +54,9 @@ The portfolio follows a minimalist design philosophy using a strict black-and-wh
 
 ## 📬 Connect With Me
 
-* **Email:** [your@email.com](mailto:your@email.com)
-* **GitHub:** https://github.com/yourusername
-* **LinkedIn:** https://linkedin.com/in/yourusername
+* **Email:** [alifarlendi123@gmail.com](mailto:alifarlendi123@gmail.com)
+* **GitHub:** https://github.com/whosArlend
+* **LinkedIn:** https://linkedin.com/in/alif-arlendi
 
 ## 📄 License
 
