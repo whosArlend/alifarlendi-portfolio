@@ -152,7 +152,7 @@ export const projectsContent = {
         "Tailwind CSS",
       ],
 
-      github: "https://github.com/whosArlend/portfolio",
+      github: "https://github.com/whosArlend/alifarlendi-portfolio",
 
       live: "#",
     },
