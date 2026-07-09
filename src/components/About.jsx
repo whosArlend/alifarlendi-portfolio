@@ -15,7 +15,7 @@ export default function About() {
         </div>
 
         {/* Right column — bio text */}
-        <div className="space-y-4 text-base leading-relaxed text-black md:text-lg">
+        <div className="space-y-4 text-base leading-relaxed text-black text-justify md:text-lg">
           {aboutContent.paragraphs.map((paragraph, index) => (
             <p key={index}>{paragraph}</p>
           ))}

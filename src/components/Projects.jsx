@@ -10,7 +10,7 @@ function ProjectCard({ project }) {
     <article className="group flex flex-col border border-gray-300 p-6 transition-colors hover:border-black">
       <h3 className="text-lg font-semibold text-black">{project.title}</h3>
 
-      <p className="mt-3 flex-1 text-sm leading-relaxed text-gray-500">
+      <p className="mt-3 flex-1 text-sm leading-relaxed text-justify text-gray-500">
         {project.description}
       </p>
 

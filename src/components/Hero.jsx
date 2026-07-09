@@ -19,7 +19,7 @@ export default function Hero() {
           {siteConfig.tagline}
         </p>
 
-        <p className="mt-6 max-w-xl text-base leading-relaxed text-black md:text-lg">
+        <p className="mt-6 max-w-xl text-base leading-relaxed text-justify text-black md:text-lg">
           {siteConfig.intro}
         </p>
 

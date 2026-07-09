@@ -112,7 +112,7 @@ export const projectsContent = {
       title: "KataFinder",
 
       description:
-        "A modern web application for searching and exploring Indonesian words with a clean, intuitive, and responsive user interface.",
+        "A web application that helps players find Indonesian words for Roblox word-chain games through a simple, fast, and responsive search experience.",
 
       tech: [
         "React",
@@ -152,6 +152,7 @@ export const projectsContent = {
 
       tech: [
         "React",
+        "JavaScript",
         "Vite",
         "Tailwind CSS",
       ],
